@@ -40,9 +40,9 @@ PieCloudDB is OpenPie's next-gen cloud-native virtual data warehouse, which achi
 
 * Cloud-Native Storage-Computing Separation Architecture
 
-  * PieCloudDB leverages a “metadata-computation-data separation” architecture for separate management of cloud storage and computing resources. Cloud computing resources can be elastically allocated based on computing tasks, with costs calculated based on usages time and scale.
+  * PieCloudDB leverages a "metadata-computation-data separation" architecture for separate management of cloud storage and computing resources. Cloud computing resources can be elastically allocated based on computing tasks, with costs calculated based on usages time and scale.
 
-* New Query Optimizer “Dutch”
+* New Query Optimizer "Dutch"
 
   * PieCloudDB intelligently generates statistical information more and efficiently, which supports the “Dutch” query optimizer to optimize query plans. It offers advanced features such as aggregation pushdown, pre-computation, and block skipping to meet complex analytical query demands.
 
@@ -51,9 +51,9 @@ PieCloudDB is OpenPie's next-gen cloud-native virtual data warehouse, which achi
 
   * PieCloudDB employs multi-level cache structures for metadata and user data at the computation layer to reduce network latency and data migration costs, improves computation efficiency, and meet real-time requirements. Additionally, PieCloudDB's "JANM" storage leverages an efficient file format for object storage, enhancing computing efficiency and reducing network requests.
 
-Patented Technology -- eMPP Distributed System
+* Patented Technology -- eMPP Distributed System
 
-* PieCloudDB utilizes the Elastic Massive Parallel Processing (eMPP) architecture to execute parallelized tasks across multiple virtual warehouses on cloud, allowing computing resources to scale up or down based particular workloads and enabling PieCloudDB to handle massive PB-level data.
+  * PieCloudDB utilizes the Elastic Massive Parallel Processing (eMPP) architecture to execute parallelized tasks across multiple virtual warehouses on cloud, allowing computing resources to scale in or out based particular workloads and enabling PieCloudDB to handle massive PB-level data.
 
 ## 快速开始PieCloudDB管控平台
 
