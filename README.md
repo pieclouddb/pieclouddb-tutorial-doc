@@ -8,9 +8,9 @@ This is the quick start tutorial GitHub repo for PieCloudDB's management console
 
 ├── Online Retail Sample Data
 
-│   ├── fake_online_retail_data.zip       # Sample data files
+│├── fake_online_retail_data.zip       # Sample data files
 
-│   ├── demo_query.sql          # Sample data DDL + sample analysis queries
+│├── demo_query.sql          # Sample data DDL + sample analysis queries
 
 └── README.md
 
