@@ -1,6 +1,6 @@
-## Get Started with PieCloudDB Database
+## Get Started with PieCloudDB Database CoC
 
-PieCloudDB Database 管控平台上手文档、示例及数据。
+PieCloudDB Database CoC 版本上手文档、示例及数据。
 
 This is the quick start tutorial GitHub repo for PieCloudDB's management console.
 
@@ -15,9 +15,9 @@ This is the quick start tutorial GitHub repo for PieCloudDB's management console
 └── README.md
 
 
-## 快速开始PieCloudDB管控平台
+## 快速开始PieCloudDB CoC版
 
-我们将从导入数据⼊⼿，结合虚拟电商销售数据等实例，详细展示管控平台查询计算和查询历史等功能，引导您快速了解和上⼿PieCloudDB 云上云版本。详细的视频讲解请参照<u>[快速上手PieCloudDB视频](https://www.bilibili.com/video/BV15s4y1J7fL/)</u>。
+我们将从导入数据⼊⼿，结合虚拟电商销售数据等实例，详细展示PieCloudDB CoC版本查询计算和查询历史等功能，引导您快速了解和上⼿PieCloudDB 云上云版本。详细的视频讲解请参照<u>[快速上手PieCloudDB视频](https://www.bilibili.com/video/BV15s4y1J7fL/)</u>。
 
 快速开始大致分为以下五个部分：
 
